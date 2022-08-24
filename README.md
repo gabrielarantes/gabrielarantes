@@ -17,6 +17,5 @@ A mobile app developer and a react native lover :heart:
 
 - :brazil: Rio de Janeiro - Brazil
 - :books:  Node
-- :watch: Tyzen 
 - :electron: React Native
 - :envelope: ghanicolau@gmail.com
